@@ -1,5 +1,7 @@
 # Git, github, ramas y pull requests
 
+Todos estos ejercicios asumen que ya conocés los comandos para crear nuevos repos, nuevas ramas, para ir a una rama ya creada, etc. Si alguno de los puntos te genera dudas, y no estás segura de cómo hacerlo, escribinos a Ivi o a mí!
+
 ## Ramas locales
 
 1. Creá una nueva carpeta llamada `git-prueba-ramas`. 
